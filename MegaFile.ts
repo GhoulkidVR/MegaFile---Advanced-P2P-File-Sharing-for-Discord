@@ -1,6 +1,6 @@
 /*
  * Vencord, a Discord client mod
- * Copyright (c) 2024 Ghoulkid and contributors
+ * Copyright (c) 2025 Ghoulkid
  * All rights reserved. Unauthorized redistribution prohibited.
  */
 
